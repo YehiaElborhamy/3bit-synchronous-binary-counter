@@ -1,6 +1,5 @@
-3-bit synchronous binary counter designed using JK flip-flops, K-maps, simulation, and hardware implementation.
 # 3-Bit Synchronous Binary Counter
-
+3-bit synchronous binary counter designed using JK flip-flops, K-maps, simulation, and hardware implementation.
 A digital logic design project that implements a 3-bit synchronous binary counter using JK flip-flops, truth tables, excitation tables, Karnaugh maps, simulation, and hardware implementation.
 
 ---
